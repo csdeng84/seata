@@ -25,6 +25,7 @@
         <constructor-arg index="4" value="${spring.redis.password}"/>
     </bean>
 
+    <!-- git test -->
     <!--<bean id="jedisUtil" class="com.company.project.biz.util.JedisUtil">-->
         <!--<constructor-arg index="0" ref="jedisPool"/>-->
     <!--</bean>-->
